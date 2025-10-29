@@ -1,0 +1,23 @@
+let text = " hello world! ";
+let length = text.length;
+let text1 = text.charAt(0); 
+let text2 = text.slice(2, 3);
+let text3 = text.substring(2, 3);
+let text4 = text.toUpperCase();
+let text5 = text.toLowerCase();
+let text6 = text1.concat("",text2);
+let text7 = text.trim();
+let text8 = text.split(" ");
+let newText = text.replace("world", "dunia");
+
+console.log (text);
+console.log (length);
+console.log (text1);
+console.log (text2);
+console.log (text3);
+console.log (text4);
+console.log (text5);
+console.log (text6);
+console.log (text7);
+console.log (text8);
+console.log (newText);
