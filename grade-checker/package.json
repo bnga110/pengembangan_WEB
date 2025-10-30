@@ -1,0 +1,12 @@
+{
+  "name": "grade-checker",
+  "version": "1.0.0",
+  "description": "Program untuk mengecek Grade berdasarkan nilai",
+  "license": "ISC",
+  "author": "bunga",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
